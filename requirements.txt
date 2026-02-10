@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+sentencepiece
+soundfile
+numpy
+google-generativeai
+sentence-transformers
+faiss-cpu
+rank_bm25
+emoji
+pandas
+openai
